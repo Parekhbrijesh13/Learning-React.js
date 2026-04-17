@@ -15,7 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React with brijesh
+        </a>
+        <a href='https://Parekhbrijesh13.github.io' target='_blank' style={{ color: 'white' }} rel='noopener noreferrer'>
+          My Portfolio
         </a>
       </header>
     </div>
